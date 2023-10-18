@@ -1,4 +1,4 @@
-package mobilePhone;
+package collectionsDemo.mobilePhone;
 //mplement the Contact class with the following attributes:
 //    -  Two fields, both String, one called name and the other phoneNumber.
 //    -  A constructor that takes two Strings, and initialises name and phoneNumber.

@@ -1,4 +1,7 @@
-package mobilePhone;
+package collectionsDemo.mobilePhone;
+
+import collectionsDemo.mobilePhone.Contact;
+import collectionsDemo.mobilePhone.MobilePhone;
 
 public class Main {
     public static void main(String[] args) {

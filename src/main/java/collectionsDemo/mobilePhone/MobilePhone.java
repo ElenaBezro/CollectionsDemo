@@ -1,4 +1,4 @@
-package mobilePhone;
+package collectionsDemo.mobilePhone;
 
 import java.util.ArrayList;
 import java.util.List;
