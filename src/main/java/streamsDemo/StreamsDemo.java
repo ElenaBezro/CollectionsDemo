@@ -32,6 +32,7 @@ public class StreamsDemo {
     //Bonus: Find the average of the list.
     public Integer sumOfNumbers(List<Integer> list) {
         return list.stream().reduce(0, (acc, number) -> acc + number);
+        //return list.stream().mapToInt(Integer::intValue).sum();
     }
 
     //Exercise 4.
