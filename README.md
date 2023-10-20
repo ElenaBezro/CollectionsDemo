@@ -43,7 +43,10 @@ Multiple Data Types:
 Use Java Generics to allow your CustomStack to work with any data type, not just long. This will enable the user to create stacks of integers, strings, custom objects, etc.
 
 Add a toString Method:
-Override the toString method to return a string representation of the stack. The top of the stack should be on the right side of the output. For example, if the stack has elements [1, 2, 3] with 3 being the top, the method should return "1, 2, 3".
+Override the toString method to return a string representation of the stack. 
+The top of the stack should be on the right side of the output. 
+For example, if the stack has elements [1, 2, 3] with 3 being the top,
+the method should return "1, 2, 3".
 
 Stack Operations with Custom Objects:
 If you have implemented generics, create a custom object, say Person with attributes like name and age. Implement the Comparable interface in the Person class. Now, use your CustomStack to store Person objects and sort them based on the age or name.
